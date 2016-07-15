@@ -1,4 +1,4 @@
-FROM python:2.3
+FROM ruby:2.2
 
 RUN set -x \
   && apt-get update \
